@@ -1,0 +1,12 @@
+D:\Нова папка\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\bin\Debug\net5.0\Common.Logging.deps.json
+D:\Нова папка\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\bin\Debug\net5.0\Common.Logging.dll
+D:\Нова папка\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\bin\Debug\net5.0\Common.Logging.pdb
+D:\Нова папка\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.csproj.AssemblyReference.cache
+D:\Нова папка\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Нова папка\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.AssemblyInfoInputs.cache
+D:\Нова папка\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.AssemblyInfo.cs
+D:\Нова папка\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.csproj.CoreCompileInputs.cache
+D:\Нова папка\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.dll
+D:\Нова папка\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\obj\Debug\net5.0\refint\Common.Logging.dll
+D:\Нова папка\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.pdb
+D:\Нова папка\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\obj\Debug\net5.0\ref\Common.Logging.dll
